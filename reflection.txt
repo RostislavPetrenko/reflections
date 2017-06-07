@@ -6,3 +6,36 @@ i guess
 
 now since i am learning with reflection a lot
 it's time to get better at making commits
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+it can help enumerously actually.
+it helps to make sure that i have changes made
+it helps to make sure that in repo stuff is different from ones i am making
+so it helps
+and it prevents from mistakes!
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+lot's of them actually come to mind
+for example for other language versions
+for updates
+for some new features to try out
+lot's and lot's of situation when you can use branching in order to try out some new things without fear of 
+breaking the whle thing
+come on
+
+How do the diagrams help you visualize the branch structure?
+
+it's just helped me to see what i have just heard on video
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+
+well, merging two branches brings new features to the main version of the fie
+
+
+that appears to be simple enough problem
+manually you can avoid conflicts while automatically you will have to 
+deal with them all the time
