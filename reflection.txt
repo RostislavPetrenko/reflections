@@ -1,0 +1,8 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+well, staging area allows to add several changed file and later make them as one commit
+which is good
+i guess
+
+now since i am learning with reflection a lot
+it's time to get better at making commits
